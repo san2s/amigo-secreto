@@ -15,6 +15,12 @@
     box-sizing: border-box;
 }
 
+p {
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    color: oklch(0.637 0.237 25.331);
+}
+
 body {
     height: 100vh;
     background-color: var(--color-primary);
